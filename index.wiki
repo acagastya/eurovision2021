@@ -1,5 +1,5 @@
 {{develop}}{{date|{{subst:#time:F j, Y}}}}{{culture and entertainment}}
-On Saturday, [[Italy]] won its thrid victory at the [[Eurovision]] song competition, held this year at the {{w|Rotterdam Ahoy}} arena in {{w|Rotterdam}}, [[Netherlands]].
+On Saturday, [[Italy]] won its thrid victory at the [[Eurovision]] song competition, held this year at the {{w|Rotterdam Ahoy}} arena in {{w|Rotterdam}}, [[Netherlands]].  The Italian rock band {{w|Måneskin}}
 
 
 {{haveyoursay}}
@@ -14,11 +14,11 @@ On Saturday, [[Italy]] won its thrid victory at the [[Eurovision]] song competit
 |date   = May 22, 2021
 }}
 *{{source
-|url    = 
-|title  = 
-|author = 
-|pub    = 
-|date   = 
+|url    = https://www.independent.co.uk/arts-entertainment/eurovision/eurovision-italy-winner-b1852239.html
+|title  = Eurovision: Italy crowned winners after a shocking, emotional live ceremony in Rotterdam
+|author = Annabel Nugent
+|pub    = The Independent
+|date   = May 22, 2021
 }}
 
 [[Category:Culture and entertainment]]

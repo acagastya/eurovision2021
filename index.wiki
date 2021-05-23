@@ -1,0 +1,23 @@
+{{develop}}{{date|{{subst:#time:F j, Y}}}}{{culture and entertainment}}
+
+
+{{haveyoursay}}
+
+== Sources ==
+
+*{{source
+|url    = 
+|title  = 
+|author = 
+|pub    = 
+|date   = 
+}}
+*{{source
+|url    = 
+|title  = 
+|author = 
+|pub    = 
+|date   = 
+}}
+
+

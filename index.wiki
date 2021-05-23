@@ -9,6 +9,13 @@ Out of 39 countries participating this time, 26 countries including hosts Nether
 == Sources ==
 
 *{{source
+|url    = https://www.bbc.co.uk/newsround/57212638
+|title  = Eurovision Song Contest: Italy wins and UK gets 0 points
+|author = 
+|pub    = BBC News Online
+|date   = May 22, 2021
+}}
+*{{source
 |url    = https://www.youtube.com/watch?v=msfdz_aksY8
 |title  = Eurovision Song Contest 2021 - Grand Final - Live Stream
 |author = Eurovision

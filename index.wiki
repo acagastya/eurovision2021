@@ -1,4 +1,5 @@
 {{develop}}{{date|{{subst:#time:F j, Y}}}}{{culture and entertainment}}
+On Saturday, [[Italy]] won its thrid victory at the [[Eurovision]] song competition
 
 
 {{haveyoursay}}
@@ -6,11 +7,11 @@
 == Sources ==
 
 *{{source
-|url    = 
-|title  = 
+|url    = https://eurovision.tv/mediacentre/release/italy-wins-65th-eurovision-song-contest-as-europe-unites-on-one-stage
+|title  = Italy wins 65th Eurovision Song Contest as Europe unites on one stage
 |author = 
-|pub    = 
-|date   = 
+|pub    = Eurovision
+|date   = May 22, 2021
 }}
 *{{source
 |url    = 

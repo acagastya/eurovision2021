@@ -3,6 +3,8 @@ On Saturday, [[Italy]] won its third victory at the [[Eurovision]] song competit
 [[File:Maneskin 2019.jpg|left|thumb|File photo of Måneskin.{{image|Måneskin}}]]
 Out of 39 countries participating this time, 26 countries including hosts Netherlands and the Big Five — France, [[Germany]], Italy, [[Spain]] and the [[United Kingdom]] — competed in the finals.  The competition began on May 18.  Three of the Big Five, and the hosts finished at the very bottom of the vote ranking.  Netherlands got 11, Spain got 6, Germany bagged 3 and the UK received zero points.  All four received zero points from the audience.
 
+Dutch singer {{w|Duncan Laurence}} won the 2019 edition of Eurovision in [[Tel Aviv]] winning 498 points for his song ''{{w|Arcade (song)|Arcade}}''.
+
 
 {{haveyoursay}}
 
@@ -41,6 +43,13 @@ Out of 39 countries participating this time, 26 countries including hosts Nether
 |title  = Eurovision: Italy crowned winners after a shocking, emotional live ceremony in Rotterdam
 |author = Annabel Nugent
 |pub    = The Independent
+|date   = May 22, 2021
+}}
+*{{source
+|url    = https://eurovision.tv/story/interview-duncan-laurence-2021
+|title  = Interview: 2019 Champion Duncan Laurence 🇳🇱
+|author = 
+|pub    = Eurovision
 |date   = May 22, 2021
 }}
 
